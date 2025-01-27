@@ -4,10 +4,6 @@ title: about
 permalink: /
 subtitle:
 
-google_scholar: https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/anjian-li/
-github: https://github.com/anjianli21
-
 profile:
   align: right
   image: prof_pic.png
