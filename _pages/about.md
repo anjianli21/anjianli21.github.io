@@ -6,7 +6,6 @@ subtitle:
 
 google_scholar: https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/anjian-li/
-email: anjianli@princeton.edu
 github: https://github.com/anjianli21
 
 profile:
