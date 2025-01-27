@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
----
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+google_scholar: https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/anjian-li/
+github: https://github.com/anjianli21
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Hi! I am a PhD candidate in the Department of [Electrical and Computer Engineering](https://ece.princeton.edu/) at [Princeton University](https://www.princeton.edu/), advised by [Prof. Ryne Beeson](https://beeson.princeton.edu/). I also work closely with [Prof. Adji Bousso Dieng](https://vertaix.princeton.edu/). My research interest lies in robotics and generative AI. I'm passionate about building robots that can learn and interact with the world in a way that is both safe and intelligent. I draw inspiration from generative models, e.g. diffusion models, and techniques from numerical optimization and control theory.
+
+Previously I did an internship at [Honda Research Institute USA](https://usa.honda-ri.com/), working on interactive decision-making for autonomous driving. I did my master in computing science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. Mo Chen](https://www.sfumars.com/). Before that, I received my bachelor in mathematcis at [Beijing Normal University](https://english.bnu.edu.cn/).
+
