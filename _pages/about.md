@@ -22,4 +22,9 @@ Hi! I am a PhD candidate in the Department of [Electrical and Computer Engineeri
 
 Previously I did an internship at [Honda Research Institute USA](https://usa.honda-ri.com/), working on interactive decision-making for autonomous driving. I did my master in computing science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. Mo Chen](https://www.sfumars.com/). Before that, I received my bachelor in mathematcis at [Beijing Normal University](https://english.bnu.edu.cn/).
 
-[[Google Scholar](https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/anjian-li/)] [[GitHub](https://github.com/anjianli21)] [[Email](anjianl@princeton.edu)]
+<!-- [[Google Scholar]](https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/anjian-li/) [[GitHub]](https://github.com/anjianli21) [[Email]](anjianl@princeton.edu) -->
+
+<a href="https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+<a href="https://www.linkedin.com/in/anjian-li/" target="_blank"><i class="fab fa-linkedin"></i></a>
+<a href="https://github.com/anjianli21" target="_blank"><i class="fab fa-github"></i></a>
+<a href="mailto:anjianl@princeton.edu"><i class="fas fa-envelope"></i></a>
