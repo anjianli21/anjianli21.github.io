@@ -24,7 +24,7 @@ Previously I did an internship at [Honda Research Institute USA](https://usa.hon
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/anjian-li/) [[GitHub]](https://github.com/anjianli21) [[Email]](anjianl@princeton.edu) -->
 
-<a href="https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-3x"></i></a>
-<a href="https://www.linkedin.com/in/anjian-li/" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
-<a href="https://github.com/anjianli21" target="_blank"><i class="fab fa-github fa-3x"></i></a>
+<a href="https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en" target="_blank" style="margin-right: 15px;"><i class="fas fa-graduation-cap fa-3x"></i></a>
+<a href="https://www.linkedin.com/in/anjian-li/" target="_blank" style="margin-right: 15px;"><i class="fab fa-linkedin fa-3x"></i></a>
+<a href="https://github.com/anjianli21" target="_blank" style="margin-right: 15px;"><i class="fab fa-github fa-3x"></i></a>
 <a href="mailto:anjianl@princeton.edu"><i class="fas fa-envelope fa-3x"></i></a>
