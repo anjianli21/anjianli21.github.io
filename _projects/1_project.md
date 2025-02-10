@@ -2,7 +2,7 @@
 layout: page
 title: Project 1
 description: A brief description of Project 1.
-img: assets/img/12.jpg
+img: /assets/img/12.jpg
 importance: 1
 category: work
 # related_publications: true
@@ -16,30 +16,30 @@ category: work
   <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
   <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
   <meta property="og:url" content="URL OF THE WEBSITE"/>
-  <!-- <meta property="og:image" content="assets/images/your_banner_image.png" /> -->
+  <!-- <meta property="og:image" content="/assets/images/your_banner_image.png" /> -->
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
   <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
-  <!-- <meta name="twitter:image" content="assets/images/your_twitter_banner_image.png"> -->
+  <!-- <meta name="twitter:image" content="/assets/images/your_twitter_banner_image.png"> -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Academic Project Page</title>
-  <link rel="icon" type="image/x-icon" href="assets/img/project_1/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/assets/img/project_1/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/bulma.min.css">
-  <link rel="stylesheet" href="assets/css/bulma-carousel.min.css">
-  <link rel="stylesheet" href="assets/css/bulma-slider.min.css">
-  <link rel="stylesheet" href="assets/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="/assets/css/bulma.min.css">
+  <link rel="stylesheet" href="/assets/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="/assets/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="/assets/css/fontawesome.all.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <link rel="stylesheet" href="assets/css/index.css">
+  <link rel="stylesheet" href="/assets/css/index.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-  <script defer src="assets/js/fontawesome.all.min.js"></script>
-  <script src="assets/js/bulma-carousel.min.js"></script>
-  <script src="assets/js/bulma-slider.min.js"></script>
-  <script src="assets/js/index.js"></script>
+  <script defer src="/assets/js/fontawesome.all.min.js"></script>
+  <script src="/assets/js/bulma-carousel.min.js"></script>
+  <script src="/assets/js/bulma-slider.min.js"></script>
+  <script src="/assets/js/index.js"></script>
 </head>
 <body>
 
@@ -65,35 +65,35 @@ category: work
           <div class="column has-text-centered">
             <div class="publication-links">
               <span class="link-block">
-                <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                <a href="https://arxiv.org/pdf/ARXIV_PAPER_ID.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fas fa-file-pdf"></i>
                   </span>
                   <span>Paper</span>
                 </a>
               </span>
-              <!-- <span class="link-block">
-                <a href="assets/pdfs/supplementary_material.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
+              <span class="link-block">
+                <a href="/assets/pdfs/supplementary_material.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fas fa-file-pdf"></i>
                   </span>
                   <span>Supplementary</span>
                 </a>
-              </span> -->
+              </span>
               <span class="link-block">
-                <a href="https://github.com/YOUR REPO HERE" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                <a href="https://github.com/YOUR_REPO_HERE" target="_blank" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fab fa-github"></i>
                   </span>
                   <span>Code</span>
                 </a>
               </span>
-              <!-- <span class="link-block">
-                <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank" class="external-link button is-normal is-rounded is-dark">
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/ARXIV_PAPER_ID" target="_blank" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="ai ai-arxiv"></i>
                   </span>
-                  <span>arXiv</span> -->
+                  <span>arXiv</span>
                 </a>
               </span>
             </div>
@@ -109,7 +109,7 @@ category: work
   <div class="container is-max-desktop">
     <div class="hero-body">
       <video poster="" id="tree" autoplay controls muted loop height="100%">
-        <source src="assets/video/project_1/banner_video.mp4" type="video/mp4">
+        <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
       </video>
       <h2 class="subtitle has-text-centered">
         Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus.
@@ -140,25 +140,25 @@ category: work
     <div class="container">
       <div id="results-carousel" class="carousel results-carousel">
         <div class="item">
-          <img src="assets/img/project_1/carousel1.jpg" alt="MY ALT TEXT"/>
+          <img src="/assets/img/project_1/carousel1.jpg" alt="MY ALT TEXT"/>
           <h2 class="subtitle has-text-centered">
             First image description.
           </h2>
         </div>
         <div class="item">
-          <img src="assets/img/project_1/carousel2.jpg" alt="MY ALT TEXT"/>
+          <img src="/assets/img/project_1/carousel2.jpg" alt="MY ALT TEXT"/>
           <h2 class="subtitle has-text-centered">
             Second image description.
           </h2>
         </div>
         <div class="item">
-          <img src="assets/img/project_1/carousel3.jpg" alt="MY ALT TEXT"/>
+          <img src="/assets/img/project_1/carousel3.jpg" alt="MY ALT TEXT"/>
           <h2 class="subtitle has-text-centered">
             Third image description.
           </h2>
         </div>
         <div class="item">
-          <img src="assets/img/project_1/carousel4.jpg" alt="MY ALT TEXT"/>
+          <img src="/assets/img/project_1/carousel4.jpg" alt="MY ALT TEXT"/>
           <h2 class="subtitle has-text-centered">
             Fourth image description.
           </h2>
@@ -192,17 +192,17 @@ category: work
       <div id="results-carousel" class="carousel results-carousel">
         <div class="item item-video1">
           <video poster="" id="video1" autoplay controls muted loop height="100%">
-            <source src="assets/videos/carousel1.mp4" type="video/mp4">
+            <source src="/assets/videos/carousel1.mp4" type="video/mp4">
           </video>
         </div>
         <div class="item item-video2">
           <video poster="" id="video2" autoplay controls muted loop height="100%">
-            <source src="assets/videos/carousel2.mp4" type="video/mp4">
+            <source src="/assets/videos/carousel2.mp4" type="video/mp4">
           </video>
         </div>
         <div class="item item-video3">
           <video poster="" id="video3" autoplay controls muted loop height="100%">
-            <source src="assets/videos/carousel3.mp4" type="video/mp4">
+            <source src="/assets/videos/carousel3.mp4" type="video/mp4">
           </video>
         </div>
       </div>
