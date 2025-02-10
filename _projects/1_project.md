@@ -25,14 +25,17 @@ Conference name and year
 
 ## Links
 
-- [Paper](https://arxiv.org/pdf/ARXIV_PAPER_ID.pdf)
-- [Supplementary Material](/assets/pdfs/supplementary_material.pdf)
+<!-- - [Paper](https://arxiv.org/pdf/ARXIV_PAPER_ID.pdf) -->
+<!-- - [Supplementary Material](/assets/pdfs/supplementary_material.pdf) -->
 - [Code](https://github.com/YOUR_REPO_HERE)
 - [arXiv](https://arxiv.org/abs/ARXIV_PAPER_ID)
 
 ## Teaser Video
 
-![Teaser Video](/assets/video/project_1/banner_video.mp4)
+<video width="100%" controls>
+  <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Abstract
 
