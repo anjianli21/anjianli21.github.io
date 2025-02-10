@@ -19,12 +19,12 @@ category: work
   <sup>2</sup> Institution 2
 </div>
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin: 20px 0;">
   <a href="https://arxiv.org/abs/ARXIV_PAPER_ID" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none; margin-right: 10px;">
-    <i class="fas fa-file-pdf"></i> Paper
+    <i class="fas fa-file-pdf" style="font-size: 0.8em;"></i> Paper
   </a>
   <a href="https://github.com/YOUR_REPO_HERE" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none;">
-    <i class="fab fa-github"></i> Code
+    <i class="fab fa-github" style="font-size: 0.8em;"></i> Code
   </a>
 </div>
 
@@ -33,10 +33,9 @@ category: work
   Your browser does not support the video tag.
 </video>
 
-<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <h2>Abstract</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh, placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo. Pellentesque auctor leo vitae sagittis suscipit.</p>
-</div>
+## Abstract
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh, placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo. Pellentesque auctor leo vitae sagittis suscipit.
 
 ## Introduction
 
