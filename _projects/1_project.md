@@ -19,11 +19,11 @@ category: work
   <sup>2</sup> Institution 2
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
   <a href="https://github.com/YOUR_REPO_HERE">Code</a> | <a href="https://arxiv.org/abs/ARXIV_PAPER_ID">Paper</a>
 </div>
 
-<video width="100%" controls>
+<video width="100%" controls style="margin-top: 20px;">
   <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
