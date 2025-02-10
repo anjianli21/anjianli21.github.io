@@ -33,6 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellu
 
 ![First image description](/assets/img/project_1/carousel1.jpg)
 
+
 ## BibTeX
 
 BibTex Code Here
