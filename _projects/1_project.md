@@ -10,13 +10,18 @@ category: work
 
 <!-- # Academic Project Page -->
 
-First Author<sup>1</sup>, Second Author<sup>2</sup>, Third Author<sup>2</sup>
+<div style="text-align: center;">
+  First Author<sup>1</sup>, Second Author<sup>2</sup>, Third Author<sup>2</sup>
+</div>
 
-1. Institution 1
-2. Institution 2
+<div style="text-align: center;">
+  <sup>1</sup> Institution 1<br>
+  <sup>2</sup> Institution 2
+</div>
 
-
-[Code](https://github.com/YOUR_REPO_HERE) | [arXiv](https://arxiv.org/abs/ARXIV_PAPER_ID)
+<div style="text-align: center;">
+  [Code](https://github.com/YOUR_REPO_HERE) | [arXiv](https://arxiv.org/abs/ARXIV_PAPER_ID)
+</div>
 
 ## Teaser Video
 
