@@ -28,9 +28,8 @@ category: work
   </a>
 </div>
 
-<video width="100%" controls style="margin-top: 20px;">
+<video width="100%" controls autoplay style="margin-top: 20px;">
   <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## Abstract
