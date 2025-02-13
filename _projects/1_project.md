@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1
+title: "DiffuSolve: Diffusion-Based Solver for Non-Convex Trajectory Optimization"
 # description: A brief description of Project 1.
 img: /assets/img/project_1/carousel1.jpg
 importance: 1
