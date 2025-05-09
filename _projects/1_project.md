@@ -11,12 +11,11 @@ category: work
 <!-- # Academic Project Page -->
 
 <div style="text-align: center;">
-  First Author<sup>1</sup>, Second Author<sup>2</sup>, Third Author<sup>2</sup>
+  Anjian Li, Zihan Ding, Adji Bousso Dieng, Ryne Beeson
 </div>
 
 <div style="text-align: center;">
-  <sup>1</sup> Institution 1<br>
-  <sup>2</sup> Institution 2
+  Princeton University
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
