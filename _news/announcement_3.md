@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a Machine Learning Engineering Internship at Waymo!
+I started a summer internship at Waymo!
