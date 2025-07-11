@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a summer internship at Waymo!
+I started a summer internship at [Waymo](https://waymo.com/)!
