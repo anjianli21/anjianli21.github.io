@@ -32,6 +32,8 @@ category: work
   <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
 </video> -->
 
+![First image description](/assets/img/predictive_planner/workflow.png)
+
 ## Abstract
 
 Trajectory prediction and planning are essential for autonomous vehicles to navigate safely and efficiently in dynamic environments. Traditional approaches often treat them separately, limiting the ability for interactive planning. While recent diffusion-based generative models have shown promise in multi-agent trajectory generation, their slow sampling is less suitable for high-frequency planning tasks. In this paper, we leverage the consistency model to build a predictive planner that samples from a joint distribution of ego and surrounding agents, conditioned on the ego vehicle's navigational goal. Trained on real-world human driving datasets, our consistency model generates higher-quality trajectories with fewer sampling steps than standard diffusion models, making it more suitable for real-time deployment. To enforce multiple planning constraints simultaneously on the ego trajectory, a novel online guided sampling approach inspired by the Alternating Direction Method of Multipliers (ADMM) is introduced. Evaluated on the Waymo Open Motion Dataset (WOMD), our method enables proactive behavior such as nudging and yielding, and also demonstrates smoother, safer, and more efficient trajectories and satisfaction of multiple constraints under a limited computational budget.
