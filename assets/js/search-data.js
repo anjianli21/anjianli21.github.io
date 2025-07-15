@@ -58,7 +58,7 @@ ninja.data = [{
           title: 'DiffuSolve: Diffusion-Based Solver for Non-Convex Trajectory Optimization',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/diffusolve/";
             },},{id: "projects-predictive-planner-for-autonomous-driving-with-consistency-models",
           title: 'Predictive Planner for Autonomous Driving with Consistency Models',
           description: "",
