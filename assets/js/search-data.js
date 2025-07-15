@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-just-finished-my-internship-at-honda-research-institute-usa-it-has-been-a-wonderful-experience-working-with-faizan-m-tariq-sangjae-bae-and-david-isele-in-the-team",
-          title: 'I just finished my internship at Honda Research Institute USA! It has been...',
+    },{id: "news-i-finished-my-internship-at-honda-research-institute-usa-it-has-been-a-wonderful-experience-working-with-faizan-m-tariq-sangjae-bae-and-david-isele-in-the-team",
+          title: 'I finished my internship at Honda Research Institute USA! It has been a...',
           description: "",
           section: "News",},{id: "news-our-paper-diffusolve-diffusion-based-solver-for-non-convex-trajectory-optimization-has-been-accepted-to-7th-annual-learning-for-dynamics-amp-amp-control-conference-l4dc",
           title: 'Our paper DiffuSolve: Diffusion-Based Solver for Non-Convex Trajectory Optimization has been accepted to...',
