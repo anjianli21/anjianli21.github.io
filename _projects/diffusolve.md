@@ -39,7 +39,7 @@ Optimal trajectory design is computationally expensive for nonlinear and high-di
 
 <!-- ## Introduction
 
-![First image description](/assets/img/project_1/carousel1.jpg) --> -->
+![First image description](/assets/img/project_1/carousel1.jpg) -->
 
 
 ## BibTeX
