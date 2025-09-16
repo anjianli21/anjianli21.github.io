@@ -18,9 +18,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi! I am a 5th year PhD candidate in the Department of [Electrical and Computer Engineering](https://ece.princeton.edu/) at [Princeton University](https://www.princeton.edu/), advised by [Prof. Ryne Beeson](https://beeson.princeton.edu/). I also work closely with [Prof. Adji Bousso Dieng](https://vertaix.princeton.edu/) and [Prof. Bartolomeo Stellato](https://stella.to/). My research interest lies in robotics and generative AI. I'm passionate about building robots with generative models that can interact with the world safely and intelligently. I'm also interested in using machine learning to accelerate solving complex non-convex optimization problems.
+Hi! I am a 5th year PhD candidate in the Department of [Electrical and Computer Engineering](https://ece.princeton.edu/) at [Princeton University](https://www.princeton.edu/), advised by [Prof. Ryne Beeson](https://beeson.princeton.edu/). I also work closely with [Prof. Adji Bousso Dieng](https://vertaix.princeton.edu/) and [Prof. Bartolomeo Stellato](https://stella.to/). 
+My research focuses on generative AI and world models for safe, reliable reasoning and decision-making in complex environments with constraint alignment, with applications in autonomous systems and robotics. I'm also working on machine learning methods to accelerate solving non-convex optimization problems.
 
-Over the past summer, I interned at [Waymo](https://waymo.com/) working on post-training of generative foundation models in planning that deployed on thousands of Waymo autonomous vehicles. Previously I did an internship at [Honda Research Institute USA](https://usa.honda-ri.com/), working on consistency models for efficient policy. I did my master in computing science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. Mo Chen](https://www.sfumars.com/). Before that, I received my bachelor in mathematcis at [Beijing Normal University](https://english.bnu.edu.cn/).
+Over the past summer, I interned at [Waymo](https://waymo.com/) working on post-training of foundational generative models that run onboard planning on thousands of Waymo autonomous vehicles. 
+
+Previously I did an internship at [Honda Research Institute USA](https://usa.honda-ri.com/), working on consistency models. I did my master in computing science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. Mo Chen](https://www.sfumars.com/). Before that, I received my bachelor in mathematcis at [Beijing Normal University](https://english.bnu.edu.cn/).
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=Hw0HthIAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/anjian-li/) [[GitHub]](https://github.com/anjianli21) [[Email]](anjianl@princeton.edu) -->
 
