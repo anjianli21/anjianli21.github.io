@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 Hi! I am a 5th year PhD candidate in the Department of [Electrical and Computer Engineering](https://ece.princeton.edu/) at [Princeton University](https://www.princeton.edu/), advised by [Prof. Ryne Beeson](https://beeson.princeton.edu/). I also work closely with [Prof. Adji Bousso Dieng](https://vertaix.princeton.edu/) and [Prof. Bartolomeo Stellato](https://stella.to/). 
 My research focuses on generative AI and world models for safe, reliable reasoning and decision-making in complex environments, with applications to autonomous systems and robotics. I'm also interested in developing machine learning methods to accelerate non-convex optimization.
 
-Over the past summer, I interned with [Waymo](https://waymo.com/) planning team, where I worked on post-training a generative foundation model that is currently running on thousands of fully autonomous vehicles. 
+Over the past summer, I interned with [Waymo](https://waymo.com/) planning team, where I worked on post-training a generative foundation model for targed behaviors that is currently running on thousands of fully autonomous vehicles. 
 
 Previously I did an internship at [Honda Research Institute USA](https://usa.honda-ri.com/), working on consistency models. I did my master in computing science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. Mo Chen](https://www.sfumars.com/). Before that, I received my bachelor in mathematcis at [Beijing Normal University](https://english.bnu.edu.cn/).
 
