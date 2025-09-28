@@ -19,12 +19,12 @@ category: work
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://arxiv.org/abs/ARXIV_PAPER_ID" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none; margin-right: 10px;">
+  <a href="https://arxiv.org/abs/2403.05571" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none; margin-right: 10px;">
     <i class="fas fa-file-pdf" style="font-size: 0.8em;"></i> Paper
   </a>
-  <a href="https://github.com/YOUR_REPO_HERE" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none;">
+  <!-- <a href="https://github.com/YOUR_REPO_HERE" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none;">
     <i class="fab fa-github" style="font-size: 0.8em;"></i> Code
-  </a>
+  </a> -->
 </div>
 
 <!-- <video width="100%" controls autoplay style="margin-top: 20px;">
