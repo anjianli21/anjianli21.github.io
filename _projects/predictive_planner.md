@@ -28,6 +28,12 @@ category: work
   </a>
 </div>
 
+<div style="text-align: center; margin: 10px 0;">
+  <p style="color: #666; font-style: italic; font-size: 0.9em;">
+    <i class="fas fa-clock" style="margin-right: 5px;"></i>Code will be published soon!
+  </p>
+</div>
+
 <!-- <video width="100%" controls autoplay style="margin-top: 20px;">
   <source src="/assets/video/project_1/banner_video.mp4" type="video/mp4">
 </video> -->
