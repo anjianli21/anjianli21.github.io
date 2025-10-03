@@ -29,7 +29,7 @@ category: work
 </div>
 
 <div style="text-align: center; margin: 10px 0;">
-  <p style="color: #333; font-style: italic; font-size: 0.9em;">
+  <p style="font-style: italic; font-size: 0.9em; color: inherit;">
     <i class="fas fa-clock" style="margin-right: 5px;"></i>Code will be published soon!
   </p>
 </div>
