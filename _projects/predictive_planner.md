@@ -23,14 +23,14 @@ category: work
   <a href="https://arxiv.org/abs/2502.08033" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none; margin-right: 10px;">
     <i class="fas fa-file-pdf" style="font-size: 0.8em;"></i> Paper
   </a>
-  <a href="https://github.com/YOUR_REPO_HERE" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none;">
+  <a href="https://github.com/honda-research-institute/planning_consistency" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; border-radius: 20px; text-decoration: none;">
     <i class="fab fa-github" style="font-size: 0.8em;"></i> Code
   </a>
 </div>
 
 <div style="text-align: center; margin: 10px 0;">
   <p style="font-style: italic; font-size: 0.9em; color: inherit;">
-    <i class="fas fa-clock" style="margin-right: 5px;"></i>Code will be published soon!
+    <i class="fas fa-rocket" style="margin-right: 5px;"></i>We just published our code!
   </p>
 </div>
 
